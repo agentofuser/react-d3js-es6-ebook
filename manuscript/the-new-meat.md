@@ -454,7 +454,9 @@ In the `render` method, we'll:
  - remove the "data loaded" indicator
  - render the map
 
-{format: javascript, line-numbers: false, caption: "Render the CountyMap component}
+[Copy code below from the web to preserve formatting](https://leanpub.com/hsribei-dev/read_full?preview=true#link-test)
+
+{id: link-test, format: javascript, line-numbers: false, caption: "Render the CountyMap component}
 ```
 // src/App.js
 render() {
